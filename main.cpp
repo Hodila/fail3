@@ -1,5 +1,5 @@
 #include <iostream>
-
+//учебная программа
 int main() {
     int a,b;
     cout << "Enter A and B: ";
